@@ -1,5 +1,5 @@
 # Pixel Avatar 
-> Simple pixel-avatar generator
+> A simple generator for pixel-style avatars
 
 ## Installation
 ```bash
