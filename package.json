@@ -3,23 +3,11 @@
   "version": "1.0.3",
   "description": "A simple generator for pixel-style avatars",
   "main": "src/index.js",
-  "scripts": {
-    "build": "webpack",
-    "test": "echo \"No tests yet\""
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/alexpaef/pixel-avatar.git"
   },
-  "keywords": [
-    "avatar",
-    "generator"
-  ],
+  "keywords": ["avatar", "generator"],
   "author": "Alex Paef",
-  "license": "MIT",
-  "dependencies": {},
-  "devDependencies": {
-    "webpack": "^5.88.2",
-    "webpack-cli": "^5.1.4"
-  }
+  "license": "MIT"
 }
