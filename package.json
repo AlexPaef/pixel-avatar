@@ -1,13 +1,16 @@
 {
   "name": "pixel-avatar",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A simple generator for pixel-style avatars",
   "main": "src/index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/alexpaef/pixel-avatar.git"
   },
-  "keywords": ["avatar", "generator"],
+  "keywords": [
+    "avatar",
+    "generator"
+  ],
   "author": "Alex Paef",
   "license": "MIT"
 }
